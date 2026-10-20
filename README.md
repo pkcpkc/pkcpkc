@@ -1,4 +1,4 @@
- Lead PO Mobile AI & Product Architecture at Verlag Der Tagesspiegel GmbH
+**Lead PO Mobile AI & Product Architecture at Verlag Der Tagesspiegel GmbH**
 
  - Especially interested in [Edge AI](https://medium.com/@paul-hackenberger/%EF%B8%8F-from-cloud-to-pocket-the-rapid-rise-of-mobile-edge-ai-765b2048a5f5) at the moment
 
